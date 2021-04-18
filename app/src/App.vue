@@ -1,13 +1,14 @@
 <template>
   <div id="app">
-    <div>ssssssssssssssssssssssss</div>
+    <div>ssssssssaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssss</div>
+    <div>dlsakhflsaklka</div>
     <Home />
   </div>
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue';
-import Home from './view/Home'
+import Home from './view/Home';
 export default {
   name: 'App',
   components: {
@@ -17,5 +18,4 @@ export default {
 </script>
 
 <style>
-
 </style>
